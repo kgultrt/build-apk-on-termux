@@ -7,8 +7,8 @@
 现在你只需要:
 
 ```sh
-git clone https://github.com/kgultrt/build_apk_on_termux.git
-cd build_apk_on_termux
+git clone https://github.com/kgultrt/build-apk-on-termux.git
+cd build-apk-on-termux
 bash install.sh
 ```
 
@@ -40,8 +40,8 @@ But now everything has changed!
 Now you just need to:
 
 ```sh
-git clone https://github.com/kgultrt/build_apk_on_termux.git
-cd build_apk_on_termux
+git clone https://github.com/kgultrt/build-apk-on-termux.git
+cd build-apk-on-termux
 bash install.sh
 ```
 
